@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOps/MLFlow/mlruns/388246819255801154/2b070ce2157b49e38f1fb43787824340/artifacts
+end_time: 1706174714560
+entry_point_name: ''
+experiment_id: '388246819255801154'
+lifecycle_stage: active
+run_id: 2b070ce2157b49e38f1fb43787824340
+run_name: bald-zebra-393
+run_uuid: 2b070ce2157b49e38f1fb43787824340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706174705522
+status: 3
+tags: []
+user_id: Kishan

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOps/MLFlow/mlruns/865342475974095187/0972129b8d6a4b6895687ef132f2d5a9/artifacts
+end_time: 1706174429894
+entry_point_name: ''
+experiment_id: '865342475974095187'
+lifecycle_stage: active
+run_id: 0972129b8d6a4b6895687ef132f2d5a9
+run_name: skittish-dove-17
+run_uuid: 0972129b8d6a4b6895687ef132f2d5a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706174414707
+status: 3
+tags: []
+user_id: Kishan
